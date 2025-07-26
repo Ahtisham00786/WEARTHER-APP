@@ -1,4 +1,3 @@
-
 # Weather App
 
 Welcome to the Weather App repository! This project is a web application that provides real-time weather updates for any location. It utilizes HTML, CSS, and JavaScript to deliver a user-friendly interface and fetches data using the OpenWeatherMap API.
@@ -39,7 +38,7 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repository:
 ```sh
- git clone https://github.com/Ahtisham00786/WEARTHER-APP/weather.git
+ git clone https://github.com/kaushalsahu07/weather.git
 ```
 2. Navigate to the project directory:
 ```sh 
@@ -55,4 +54,10 @@ let apiKey = "Your API Key";
 
 To use the Weather App, simply enter the name of the city in the search bar and press enter. The app will display the current weather conditions, including temperature, humidity, wind speed, and more.
 
-
+## Contact
+For any inquiries, reach out at [kaushalsahu.me@gmailcom](mailto:kaushalsahu.me@gmailcom).<br>
+GitHub: [@kaushalsahu07](https://github.com/kaushalsahu07).<br>
+Linkedin: [@kaushalsahu07](www.linkedin.com/in/kaushalsahu07).<br>
+Instagram: [@cd.kaushal](https://www.instagram.com/cd.kaushal?igsh=cTVram1ia3Vvamxz).<br>
+Portfolio: [Website Link ](https://kaushalsahu07.github.io/portfolio/).<br>
+X (Tweeter): [@kaushalsahu_07](https://x.com/kaushalsahu_07?t=7nk-jApWrJkgW6YwklJZWQ&s=09).<br>
